@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLLiteOperaciones</string>
+    <string name="usuario_nombre">Nombre del Usuario</string>
+    <string name="txt_usuario">Introduzca el Nombre</string>
+    <string name="usuario_password">Contraseña</string>
+    <string name="txt_Password">Introduzca Contraseña</string>
+    <string name="btn_agregar_usuario">Usuario</string>
+
+</resources>
